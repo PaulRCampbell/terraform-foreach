@@ -1,0 +1,7 @@
+{
+    "subnet_config": {
+        "subnet-a": "subnet-1",
+        "subnet-b": "subnet-2",
+        "subnet-c": "subnet-3"
+    }
+}
