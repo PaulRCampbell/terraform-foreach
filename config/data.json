@@ -1,0 +1,21 @@
+{
+    "subnet_config": {
+        "subnet-a": { 
+            "subnet_id" : "subnet-1",
+            "is_required" : "true" 
+            },
+        "subnet-b": { 
+            "subnet_id" : "subnet-2",
+            "is_required": "false" 
+            },
+        "subnet-c": { 
+            "subnet_id" : "subnet-3",
+            "is_required": "true"
+            }
+    },
+    "tags": {
+        "team_name": "aTeam",
+        "business_unit": "tech"
+    }
+}
+
